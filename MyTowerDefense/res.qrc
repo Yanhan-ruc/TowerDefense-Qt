@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>images/01A.png</file>
+        <file>images/02A.png</file>
+        <file>images/03A.png</file>
+        <file>images/04A.png</file>
+        <file>images/back-button.png</file>
+        <file>images/Bg.png</file>
+        <file>images/Button_PlayNow.png</file>
+        <file>images/enemy1.png</file>
+        <file>images/enemy2.png</file>
+        <file>images/enemy3.png</file>
+        <file>images/enemy4.png</file>
+        <file>images/levelbtn1.png</file>
+        <file>images/levelbtn2.png</file>
+        <file>images/levelbtn3.png</file>
+        <file>images/levelbtn4.png</file>
+        <file>images/levelbtn5.png</file>
+        <file>images/levelbtn6.png</file>
+        <file>images/levelbutton.png</file>
+        <file>images/levelbutton1.png</file>
+        <file>images/levelbutton2.png</file>
+        <file>images/levelbutton3.png</file>
+        <file>images/levelbutton4.png</file>
+        <file>images/levelbutton5.png</file>
+        <file>images/levelbutton6.png</file>
+        <file>images/title.png</file>
+        <file>images/title1.png</file>
+        <file>images/tower.png</file>
+        <file>images/Button.png</file>
+    </qresource>
+</RCC>
